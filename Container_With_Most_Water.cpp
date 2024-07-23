@@ -1,4 +1,4 @@
-// Algorithm:  See in notes tab
+// Algorithm:  See in notes tab:   https://leetcode.com/problems/container-with-most-water/description/
 
 // Designate two pointers ptr_lo = 0 and ptr_hi = length(height) - 1 i.e. set the two pointers at the two ends.
 // If height[ptr_lo] <= height[ptr_hi] then increment ptr_lo.
